@@ -2,8 +2,10 @@
 Neste projeto foi criado um Dashboard para visualização de indicadores de Segurança Pública no Brasil.
 
 # Visão Geral do Projeto
-**Objetivo:** Este projeto visa criar um dashboard interativo para a visualização de dados de segurança pública no Brasil, permitindo que os usuários explorem o número de ocorrências e vítimas de crimes em diferentes estados brasileiros e ao longo do tempo (2015-2022). Os usuários podem selecionar o ano e o estado de interesse para visualizar gráficos detalhados sobre o tipo de crime e suas consequências.
-**Conjunto de Dados**: O conjunto de dados utilizado contém informações sobre crimes reportados em diferentes estados do Brasil, entre 2015 e 2022.
+
+- **Objetivo:** Este projeto visa criar um dashboard interativo para a visualização de dados de segurança pública no Brasil, permitindo que os usuários explorem o número de ocorrências e vítimas de crimes em diferentes estados brasileiros e ao longo do tempo (2015-2022). Os usuários podem selecionar o ano e o estado de interesse para visualizar gráficos detalhados sobre o tipo de crime e suas consequências.
+
+- **Conjunto de Dados**: O conjunto de dados utilizado contém informações sobre crimes reportados em diferentes estados do Brasil, entre 2015 e 2022.
 
 # Tecnologias Utilizadas
 - Python
@@ -14,7 +16,7 @@ Neste projeto foi criado um Dashboard para visualização de indicadores de Segu
 # Como Usar
 1. Clone o repositório.
    ```bash
-  https://github.com/larissa-maciel/Indicadores_de_seguranca_publica_no_Brasil.git
+      https://github.com/larissa-maciel/Indicadores_de_seguranca_publica_no_Brasil.git
 
 3. Execute o notebook Jupyter localmente ou no Google Colab.
 
