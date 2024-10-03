@@ -13,11 +13,14 @@ Neste projeto foi criado um Dashboard para visualização de indicadores de Segu
 
 # Como Usar
 1. Clone o repositório.
-  ```bash
+   ```bash
   https://github.com/larissa-maciel/Indicadores_de_seguranca_publica_no_Brasil.git
-2. Execute o notebook Jupyter localmente ou no Google Colab.
-3. Carregue o conjunto de dados e ajuste o caminho dos arquivos no notebook.
-4. Execute todas as células do notebook para realizar a análise e visualizar o dashboard dinâmico.
+
+3. Execute o notebook Jupyter localmente ou no Google Colab.
+
+4. Carregue o conjunto de dados e ajuste o caminho dos arquivos no notebook.
+
+5. Execute todas as células do notebook para realizar a análise e visualizar o dashboard dinâmico.
 
 # Destaques
 - Criação de visualizações dinâmicas e interativas dos dados de segurança pública.
